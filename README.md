@@ -120,10 +120,3 @@ For more technical details, refer to this Medium post:
 
 [Medium Article](https://medium.com/@ckyrkou/training-a-deep-learning-classifier-for-aerial-top-view-detection-of-vehicles-874f88d81c4)
 
-## Acknowledgement
-
-This work was supported by NVIDIA Corporation with the donation of a Titan Xp GPU.
-
----
-
-This version modifies the language and presentation slightly to make it more personalized and less directly copied.
